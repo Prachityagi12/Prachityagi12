@@ -1,98 +1,105 @@
 <h1 align="center">Hi 👋, I'm Prachi Tyagi</h1>
-<h3 align="center">🎓 M.Tech in Quantum Computing @ IISc Bangalore</h3>
-<h4 align="center">🔬 Passionate about Quantum Technology | 🤖 AI Enthusiast | 📊 Scientific Computing Explorer</h4>
+<h3 align="center">🎓 M.Tech Quantum Technology @ IISc Bangalore</h3>
+<h4 align="center">⚛️ Quantum Computing | 🔬 Quantum Simulation | 🧩 Quantum Error Correction (Learning & Research)</h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prachityagi12&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=prachityagi12&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🌟 About Me
 
-- 🧠 Exploring the exciting **intersection of Quantum Algorithms and Machine Learning**
-- 🛠️ Currently working with **Python, MySQL, Statistics, Machine Learning, Deep Learning**
-- ✍️ I write about **Python**, **ML concepts**, and **Data Science fundamentals**
-- 💬 Ask me about **Quantum Computation**, **Neural Networks**, and **Statistical Modeling**
-- 📫 Reach me at: **prachityagi12@gmail.com**
-- ⚡ **Fun Fact:** *Quantum computers use linear algebra at their core — just like machine learning — but instead of matrices transforming data, they transform probability amplitudes!*
+I am a Master's student in Quantum Technology at IISc Bangalore with a strong interest in **quantum computation, quantum simulation, and quantum error correction**.
+
+My current focus is on:
+- ⚛️ Quantum circuit and physics-based simulations using Python
+- 🧠 Circuit QED systems and superconducting qubit modeling
+- 🧩 Understanding quantum error correction (stabilizer & topological codes)
+- 🛠️ Building numerical simulation pipelines for quantum systems
+
+I am especially interested in how **fault-tolerant quantum computation and scalable quantum architectures** are implemented in real systems, and I am actively working toward strengthening my understanding in this area.
 
 ---
 
-## 🤝 Connect With Me
+## 🧠 Current Interests
 
-<p align="left">
-  <a href="https://github.com/prachityagi12" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-prachityagi12-181717?style=for-the-badge&logo=github" alt="GitHub Badge" />
-  </a>
-  <!-- Add LinkedIn / Portfolio badge here -->
-</p>
-
----
-
-## 🧰 Languages and Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-2D3F6C?style=for-the-badge&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-406AB1?style=for-the-badge&logo=matplotlib&logoColor=white" />
-</p>
+- Quantum Error Correction (Stabilizer & Topological Codes)
+- Circuit QED & Open Quantum Systems
+- Photonic / Continuous-Variable Quantum Computing (exploring)
+- Quantum Simulation Tool Development
+- Fault-Tolerant Quantum Computing (learning phase)
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prachityagi12&show_icons=true&theme=tokyonight&hide_border=true" alt="Prachi's GitHub Stats" />
-</p>
+### Programming
+- Python (OOP, scientific computing)
+- C, C++
+- SQL (MySQL)
 
----
+### Quantum & Scientific Computing
+- Quantum Computation Fundamentals
+- Quantum Circuit Simulation (Qiskit, QuTiP)
+- Circuit QED modeling
+- Quantum Error Correction (theoretical + learning stage)
 
-## 🔥 GitHub Streak
+### Scientific Libraries
+- NumPy, SciPy, Pandas, Matplotlib
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=prachityagi12&theme=tokyonight&hide_border=true" alt="Prachi's GitHub Streak" />
-</p>
-
----
-
-## 📌 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prachityagi12&show_icons=true&layout=compact&langs_count=6&theme=tokyonight&hide=html,jupyter%20notebook&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 🧠 Expertise Areas
-
-- Quantum Computing Fundamentals
-- Linear Algebra & Probability for ML
-- Supervised & Unsupervised Learning
-- Neural Networks & Backpropagation
-- CNNs, Autoencoders, Clustering
-- Scientific Python Stack (NumPy, Pandas, Seaborn)
+### Core Foundations
+- Linear Algebra
+- Probability Theory
+- Data Structures (basic)
 
 ---
 
-## 💡 Currently Learning
+## 🔬 Projects
 
-- 📘 Quantum Error Correction  
-- ⚙️ Deep Learning Architectures  
-- 💾 Database Management & SQL Optimization  
-- 🤖 Reinforcement Learning Basics
+### 🧪 Transmon Qubit Simulation (Circuit QED) — Ongoing
+🔗 GitHub: https://github.com/prachityagi12/transmon-qubit
 
----
-
-## 🚀 Goals
-
-- ✨ Build Quantum-AI Hybrid Projects  
-- 📚 Contribute to open-source scientific tools  
-- 🎯 Work as a **Quantum Software Engineer** or **Data Scientist** in a top tech company
+- Simulating superconducting transmon qubits coupled to resonators
+- Studying spectroscopy response in circuit QED systems
+- Investigating effects like photon-number splitting and power broadening
+- Analyzing qubit dynamics under varying drive and noise conditions
+- Extending toward time-domain simulations (Rabi oscillations, T1, Ramsey experiments)
+- Building a modular simulation pipeline for quantum system analysis
 
 ---
 
-**Thanks for visiting!** 🌟 *Let's build the future with science + code!*
+### 🧩 Quantum Error Correction (Learning Project)
+- Studying stabilizer formalism for fault-tolerant quantum computation
+- Exploring toric code syndrome extraction and logical operators
+- Understanding topological encoding of logical qubits
+- Currently learning extensions toward color codes and fault-tolerant gate ideas
+
+---
+
+### 🧠 Machine Learning / CNN (Academic Project)
+- Implemented CNN, ResNet, and PlainNet on CIFAR-10 dataset
+- Compared architecture performance and generalization behavior
+- Visualized loss landscapes using 3D and contour plots
+
+---
+
+## 📌 Goals
+
+- Build scalable quantum simulation and QEC toolkits
+- Contribute to open-source quantum computing frameworks
+- Strengthen expertise in fault-tolerant quantum architectures
+- Work in quantum software / research engineering roles
+
+---
+
+## 📫 Contact
+
+- GitHub: [prachityagi12](https://github.com/prachityagi12)
+
+---
+
+⭐ *Building toward quantum software systems that scale beyond simulation into fault-tolerant architectures.*
+
+
+
